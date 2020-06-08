@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Tom! I enjoy programming games.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm currently a games-industry programmer at [Electric Square](https://www.electricsquare.com/) and a co-developer on [Crest](https://github.com/crest-ocean/crest).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I enjoy rock-climbing and am about 60% confident that there might be other things I've forgotten to mention that define me as a human being.
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can find out about my employment history and education on [LinkedIn](https://www.linkedin.com/in/moosichu/).
